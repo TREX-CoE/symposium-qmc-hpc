@@ -1,0 +1,65 @@
+#+TITLE: TREX Symposium on QMC and High-Performance Simulations
+#+DATE: 5-9 February 2024
+#+LOCATION: Luxembourg Institute of Science and Technology, Luxembourg
+#+LANGUAGE: en
+#+OPTIONS: toc:nil html-postamble:nil
+
+#+begin_center
+5-9 February 2024
+#+end_center
+
+@@html:
+<link rel="stylesheet" media="all" href="https://trex-coe.eu/themes/paranoid/css/style.css?s0o5dp" />
+@@
+
+* Introduction
+The symposium is organized by the
+[[https://trex-coe.eu/][TREX European Center of Excellence in Exascale Computing]]
+and aims to bring together experts
+and researchers in the fields of Quantum Monte Carlo (QMC) and
+High-Performance Computing (HPC) to discuss the latest advancements,
+challenges, and opportunities in these interrelated domains.
+
+
+* Topics
+  - Unravelling and Understanding Materials 
+  - Intermolecular Interactions
+  - Machine Learning and QMC
+  - HPC Optimization
+  - Transcorrelated Methods
+  - Methodological Session
+
+* Agenda
+** Monday
+   - Afternoon: QMC and HPC
+
+** Tuesday
+   - Morning: Materials Unravelling and Understanding
+   - Afternoon: Machine Learning and QMC
+   - Evening: Posters + Drinks
+
+** Wednesday
+   - Morning: Transcorrelated Methods
+   - Afternoon: HPC Optimization
+   - Evening: Conference Dinner
+
+** Thursday
+   - Morning: Methodological Session
+   - Afternoon: Intermolecular Interactions
+   - Evening: Excursion and Posters with Drinks
+
+* Registration
+Registrations will open soon.
+
+* Venue
+[[https://www.list.lu/][Luxembourg Institute of Science and Technology]]
+
+#+begin_export html
+<img src="https://www.trex-coe.eu/sites/default/files/2020-10/TREX%20logo%20color-4-3.png"
+style="height:150px !important; width: auto !important; margin-right:25px"
+/>
+<img src="https://www.list.lu/fileadmin/files/corporate_content/LIST_2016_rgb_H200px.png"
+height="100px"
+style="height:100px !important; width: auto !important; margin-bottom:25px"
+/>
+#+end_export
