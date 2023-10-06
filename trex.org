@@ -48,6 +48,9 @@ challenges, and opportunities in these interrelated domains.
    - Afternoon: Intermolecular Interactions
    - Evening: Excursion and Posters with Drinks
 
+** Friday
+   - Morning: HPC and QMC
+
 * Registration
 Registrations will open soon.
 
