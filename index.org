@@ -1,4 +1,4 @@
-#+TITLE: TREX Symposium on QMC and High-Performance Simulations
+#+TITLE: Bridging Quantum Monte Carlo and High-Performance Simulations, a TREX Center of Excellence in Exascale Computing Symposium
 #+DATE: 5-9 February 2024
 #+LOCATION: Luxembourg Institute of Science and Technology, Luxembourg
 #+LANGUAGE: en
